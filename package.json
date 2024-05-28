@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-studies",
+  "version": "1.0.0",
+  "description": "pulumi and IaC studies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduarda Terra",
+  "license": "ISC"
+}
